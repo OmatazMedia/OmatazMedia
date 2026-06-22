@@ -12,6 +12,11 @@
   <a href="https://www.instagram.com/omatazmedia"><img src="https://img.shields.io/badge/Instagram-omatazmedia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmatazMedia&label=Profile%20views&color=E6007E&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:omatazmedia@gmail.com"><img src="https://img.shields.io/badge/Hire%20us-Let's%20talk-0B1020?style=for-the-badge&logo=minutemailer&logoColor=E6007E" alt="Hire us" /></a>
+</p>
+
 ---
 
 ### 👋 About Omataz Media
@@ -24,6 +29,28 @@ From first concept to launch and beyond, we own the full lifecycle: **strategy �
 - 🤝 **One team, end-to-end** — design, build, ship, and support in-house
 - 🌍 **Local roots, global standards** — based in Nigeria, building for clients everywhere
 - 💬 Let's talk: **[omatazmedia.com.ng](https://omatazmedia.com.ng)** · **omatazmedia@gmail.com**
+
+---
+
+### 🌍 Where we work
+
+Proudly based in **Nigeria**, we partner with clients across **Africa, Europe, North America & the Middle East** — delivering remotely with local-quality care, in your timezone.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Nigeria-0B1020?style=for-the-badge" alt="Nigeria" />
+  <img src="https://img.shields.io/badge/Africa-0B1020?style=for-the-badge" alt="Africa" />
+  <img src="https://img.shields.io/badge/Europe-0B1020?style=for-the-badge" alt="Europe" />
+  <img src="https://img.shields.io/badge/North_America-0B1020?style=for-the-badge" alt="North America" />
+  <img src="https://img.shields.io/badge/Middle_East-0B1020?style=for-the-badge" alt="Middle East" />
+</p>
+
+---
+
+### 🏢 Industries we serve
+
+We build for organisations of every size, across sectors:
+
+`Fintech & Payments` · `Education & E-learning` · `Healthcare` · `E-commerce & Retail` · `Real Estate` · `Media & Entertainment` · `Hospitality & Travel` · `NGOs & Public Sector`
 
 ---
 
@@ -63,6 +90,64 @@ From first concept to launch and beyond, we own the full lifecycle: **strategy �
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Adobe%20CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Creative Cloud" />
+</p>
+
+---
+
+### 🔄 How we work
+
+```text
+1. Discover   →  Understand your goals, users & constraints
+2. Design     →  Wireframes, UI/UX & a clear plan you sign off on
+3. Build      →  Agile development with regular demos & updates
+4. Launch     →  Testing, deployment & a smooth go-live
+5. Support    →  Monitoring, maintenance & growth over time
+```
+
+---
+
+### 🤝 Why choose us
+
+- ✅ **One accountable team** — design, development, IT & marketing under one roof
+- ✅ **Since 2017** — a track record of shipping real products for real clients
+- ✅ **Global delivery** — remote-first, working across timezones & sectors
+- ✅ **Business-first** — we build for outcomes, not just features
+- ✅ **Clear communication** — regular updates, no jargon, no surprises
+- ✅ **Long-term partner** — we stay on for support, growth & iteration
+
+---
+
+### 💼 Featured work
+
+| Project | What it is |
+|---|---|
+| 🌐 **[omatazmedia.com.ng](https://omatazmedia.com.ng)** | Our company site & portfolio — see live client work |
+| 📡 **[OmniCast](https://github.com/OmatazMedia/OmniCast-by-OmatazMedia)** | In-house product built with Python |
+| 🧮 **[scientific-calculator](https://github.com/OmatazMedia/scientific-calculator)** | Interactive web calculator (JavaScript) |
+| 🛡️ **[Runable-safekids](https://github.com/OmatazMedia/Runable-safekids-1092)** | Safety-focused application |
+
+> Want your project featured here? **[Let's talk →](mailto:omatazmedia@gmail.com)**
+
+---
+
+### 📬 Let's work together
+
+Have a project in mind? We'd love to hear about it.
+
+<p align="left">
+  <a href="https://omatazmedia.com.ng"><img src="https://img.shields.io/badge/Visit%20our%20website-omatazmedia.com.ng-E6007E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:omatazmedia@gmail.com"><img src="https://img.shields.io/badge/Email%20us-omatazmedia@gmail.com-0B1020?style=for-the-badge&logo=gmail&logoColor=E6007E" alt="Email" /></a>
 </p>
 
 ---
