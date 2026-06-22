@@ -10,9 +10,11 @@
   <a href="https://x.com/omatazmedia"><img src="https://img.shields.io/badge/X-@omatazmedia-0B1020?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.facebook.com/omatazmedia"><img src="https://img.shields.io/badge/Facebook-omatazmedia-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/omatazmedia"><img src="https://img.shields.io/badge/Instagram-omatazmedia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@omatazmedia"><img src="https://img.shields.io/badge/YouTube-@omatazmedia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <p align="center">
+  <a href="https://wa.me/2349024599289?text=Hi%20Omataz%20Media%21%20I%27d%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <img src="https://komarev.com/ghpvc/?username=OmatazMedia&label=Profile%20views&color=E6007E&style=for-the-badge" alt="Profile views" />
   <a href="mailto:omatazmedia@gmail.com"><img src="https://img.shields.io/badge/Hire%20us-Let's%20talk-0B1020?style=for-the-badge&logo=minutemailer&logoColor=E6007E" alt="Hire us" /></a>
 </p>
@@ -34,14 +36,16 @@ From first concept to launch and beyond, we own the full lifecycle: **strategy �
 
 ### 🌍 Where we work
 
-Proudly based in **Nigeria**, we partner with clients across **Africa, Europe, North America & the Middle East** — delivering remotely with local-quality care, in your timezone.
+Powered by a **global network of great minds** who collaborate virtually — so you get senior, on-brand talent in your timezone, wherever you are. Based in **Nigeria**, with people and clients across Africa, the UK, North America and beyond.
+
+🇳🇬 **Nigeria** · 🇬🇭 **Ghana** · 🇬🇧 **UK** _(London)_ · 🇺🇸 **USA** _(Maryland · Columbia, MD)_ · 🇨🇦 **Canada** _(Toronto · Ontario)_
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nigeria-0B1020?style=for-the-badge" alt="Nigeria" />
-  <img src="https://img.shields.io/badge/Africa-0B1020?style=for-the-badge" alt="Africa" />
-  <img src="https://img.shields.io/badge/Europe-0B1020?style=for-the-badge" alt="Europe" />
-  <img src="https://img.shields.io/badge/North_America-0B1020?style=for-the-badge" alt="North America" />
-  <img src="https://img.shields.io/badge/Middle_East-0B1020?style=for-the-badge" alt="Middle East" />
+  <img src="https://img.shields.io/badge/Ghana-0B1020?style=for-the-badge" alt="Ghana" />
+  <img src="https://img.shields.io/badge/UK-0B1020?style=for-the-badge" alt="United Kingdom" />
+  <img src="https://img.shields.io/badge/USA-0B1020?style=for-the-badge" alt="United States" />
+  <img src="https://img.shields.io/badge/Canada-0B1020?style=for-the-badge" alt="Canada" />
 </p>
 
 ---
@@ -146,6 +150,7 @@ We build for organisations of every size, across sectors:
 Have a project in mind? We'd love to hear about it.
 
 <p align="left">
+  <a href="https://wa.me/2349024599289?text=Hi%20Omataz%20Media%21%20I%27d%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/WhatsApp%20us-%2B234%20902%204599%20289-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://omatazmedia.com.ng"><img src="https://img.shields.io/badge/Visit%20our%20website-omatazmedia.com.ng-E6007E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:omatazmedia@gmail.com"><img src="https://img.shields.io/badge/Email%20us-omatazmedia@gmail.com-0B1020?style=for-the-badge&logo=gmail&logoColor=E6007E" alt="Email" /></a>
 </p>
